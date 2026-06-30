@@ -1,0 +1,12 @@
+AR cachecontorller behavioral /home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.vhd sub00/vhpl09 1761235299
+AR ila ila_a /home/student2/r7ray/COE758/cache_contorller_project/ipcore_dir/ila.vhd sub00/vhpl07 1761235297
+AR icon icon_a /home/student2/r7ray/COE758/cache_contorller_project/ipcore_dir/icon.vhd sub00/vhpl05 1761235295
+EN icon NULL /home/student2/r7ray/COE758/cache_contorller_project/ipcore_dir/icon.vhd sub00/vhpl04 1761235294
+EN cpu_gen NULL /home/student2/r7ray/COE758/cache_contorller_project/CPU_gen.vhd sub00/vhpl02 1761235288
+EN cachecontorller NULL /home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.vhd sub00/vhpl08 1761235298
+AR sdram_controller behavioral /home/student2/r7ray/COE758/cache_contorller_project/SDRAM_Controller.vhd sub00/vhpl01 1761235291
+AR cpu_gen behavioral /home/student2/r7ray/COE758/cache_contorller_project/CPU_gen.vhd sub00/vhpl03 1761235289
+EN sdram_controller NULL /home/student2/r7ray/COE758/cache_contorller_project/SDRAM_Controller.vhd sub00/vhpl00 1761235290
+EN sram_sdram NULL /home/student2/r7ray/COE758/cache_contorller_project/ipcore_dir/SRAM_SDRAM.vhd sub00/vhpl10 1761235292
+AR sram_sdram sram_sdram_a /home/student2/r7ray/COE758/cache_contorller_project/ipcore_dir/SRAM_SDRAM.vhd sub00/vhpl11 1761235293
+EN ila NULL /home/student2/r7ray/COE758/cache_contorller_project/ipcore_dir/ila.vhd sub00/vhpl06 1761235296
