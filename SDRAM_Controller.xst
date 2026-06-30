@@ -1,0 +1,5 @@
+set -tmpdir "/home/student2/r7ray/COE758/cache_contorller_project/xst/projnav.tmp"
+set -xsthdpdir "/home/student2/r7ray/COE758/cache_contorller_project/xst"
+elaborate
+-ifn SDRAM_Controller.prj
+-ifmt mixed

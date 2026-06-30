@@ -1,0 +1,15 @@
+# Output products list for <SRAM_SDRAM>
+SRAM_SDRAM.asy
+SRAM_SDRAM.gise
+SRAM_SDRAM.ngc
+SRAM_SDRAM.sym
+SRAM_SDRAM.vhd
+SRAM_SDRAM.vho
+SRAM_SDRAM.xco
+SRAM_SDRAM.xise
+SRAM_SDRAM_flist.txt
+SRAM_SDRAM_xmdf.tcl
+_xmsgs/pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+summary.log

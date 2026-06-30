@@ -1,0 +1,84 @@
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+netgen -intstyle ise -ar Structure -tm cacheContorller -w -dir netgen/synthesis -ofmt vhdl -sim cacheContorller.ngc cacheContorller_synthesis.vhd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+netgen -intstyle ise -ar Structure -tm cacheContorller -w -dir netgen/synthesis -ofmt vhdl -sim cacheContorller.ngc cacheContorller_synthesis.vhd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
+xst -intstyle ise -ifn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.xst" -ofn "/home/student2/r7ray/COE758/cache_contorller_project/cacheContorller.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc cache_contorller.ucf -p xc3s500e-fg320-5 cacheContorller.ngc cacheContorller.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o cacheContorller_map.ncd cacheContorller.ngd cacheContorller.pcf 
+par -w -intstyle ise -ol high -t 1 cacheContorller_map.ncd cacheContorller.ncd cacheContorller.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cacheContorller.twx cacheContorller.ncd -o cacheContorller.twr cacheContorller.pcf -ucf cache_contorller.ucf 
+bitgen -intstyle ise -f cacheContorller.ut cacheContorller.ncd 
